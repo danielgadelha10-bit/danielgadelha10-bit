@@ -210,26 +210,6 @@ Architecture :: REST API
 
 ---
 
-## `> CONTRIBUTION_ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=danielgadelha10-bit&bg_color=020617&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `> ACHIEVEMENTS`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=danielgadelha10-bit&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
-
-</div>
-
----
-
 # `> CONTRIBUTION_PROTOCOL`
 
 <div align="center">
